@@ -1,0 +1,50 @@
+h1{
+  color: #550231;
+ text-shadow: #4b021a	;	
+ }
+ #main{
+       color:#10001f;
+      }
+ .note{
+       text-align: center;
+      }
+ h2{
+     color: #0a0106;
+   }     
+ h3{
+    color:#790740;
+   }  
+   h3{
+      text-align-last: center;
+     } 
+ p{
+   color: rgb(59, 36, 48);
+   }
+ li{ 
+   color: #2b0219;
+   }
+h4{
+        color: #521f3c;
+     } 
+img{
+     display:inline-block ;
+     list-style: none;
+     margin: 10px 20px;
+    }  
+*{
+  font-style:italic   
+ } 
+ body{
+      background-color: bisque;
+     }
+  .home.content h1{
+                font-size:25px ;
+                font-weight: 600;
+  }
+
+
+  
+
+  
+
+  
